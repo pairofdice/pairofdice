@@ -1,6 +1,4 @@
 ### o/
 
-A Jaakko here hitting his head against a wall AKA learn me a C.
-
-Helps being surrounded by awesome people at Hive Helsinki
-
+A junior software developer who recenlty completed the common core studies at Hive Helsinki through the graphics branch.
+Excited to learn more!
