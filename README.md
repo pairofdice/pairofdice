@@ -1,3 +1,3 @@
 ### o/
 
-A junior software developer student at Hive Helsinki!
+A software developer student at Hive Helsinki!
