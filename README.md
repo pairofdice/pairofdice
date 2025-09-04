@@ -1,8 +1,7 @@
 ### Greetings!
 
-A software developer student at Hive Helsinki!
-
-I have a very wide range of interests here are some taking most of my time:
+I am a software developer student at Hive Helsinki with a very wide range of interests.
+Here are some taking most of my time:
 - AI
 - Game dev and graphics
 - Networking and Cybersecurity
